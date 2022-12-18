@@ -8,7 +8,7 @@ This tutorial outlines how to setup osTicket once you have installed it on a dev
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [YouTube: Post Installation Setup](https://www.youtube.com/watch?v=doTWdYMsmjA&feature=youtu.be)
 
 <h2>Environments and Technologies Used</h2>
 
